@@ -3,7 +3,7 @@
 # @Author  : xiang.zhang
 # @FileName: temp.py
 # @Software: PyCharm
-# @usage   : identify interaction between two chains with cif structure file, generate pkl file, which need to be further processed with interaction_detect.py
+# @usage   : identify interaction between two chains with cif structure file, generate pkl file, which need to be further processed with interaction_check.py
 import pickle
 import sys
 
