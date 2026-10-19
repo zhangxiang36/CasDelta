@@ -1,0 +1,27 @@
+
+control_aln_window                  ------------TATTCATTATATTCTTCAA-C-CACCCTTTTTAACAGA
+edited                              CCCACGGCGTTATATTC-TTATATTCTTCAAACACACCCTTTTTAACAGA
+
+control_aln_window                  GGTTTTGCTCCCAATTGAGCAGGAACACTGCTGATTAGCCTTGAAAATTC
+edited                              GGTTTTGCTCCCAATTGAGCAGGAACACTGCTGATTAGCCTTGAAAATTC
+
+control_aln_window                  AATCAAACATGGACGATTCGGGCAGAATTTATTATACCTTCAAGGCAG--
+edited                              AATCAAACATGGACGATTCGGGCAGAATTTATTATACCTTCAAGGCAGCC
+
+control_aln_window                  --------------------------------------------------
+edited                              CAGGACCTTCCTGATCTTGGCATCGCAGCGGCAGCATTGCAGGTCCACCA
+
+control_aln_window                  --------------------------------------------------
+edited                              AGATGACCAATATACCCATCTGCACACAAGAAAAACAAAAAACAAAAAAA
+
+control_aln_window                  --------------------------------------------------
+edited                              AATGCAGATAGACAGGCTTTGGACAGTTAACAGAAAAAAAAAAAAAGGGG
+
+control_aln_window                  --------------------------------------------------
+edited                              TTTATTGACCTTCTTATAAAATCCCCTTTTCCCAAAACAAAGTAAGGGGC
+
+control_aln_window                  -------------------
+edited                              CCCTTGCAATAAACAGGAA
+
+
+

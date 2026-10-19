@@ -1,0 +1,15 @@
+CRISPResso version 2.2.7
+[Command used]:
+/home/zhangxiang/anaconda3/envs/crispresso2/bin/CRISPRessoWGS -b YG260036A053a_WT.bam -f info.txt -r Ref.fa -n YG260036A053a_WT -o crisprwgsout
+
+[Execution log]:
+Index file for input .bam file exists, skipping generation.
+The index for the reference fasta file is already present! Skipping generation.
+Retrieving reference sequences for amplicons and checking for sgRNAs
+
+Processing each region...
+Extracting reads in:OsPDS:3780-3879 and creating .bam file: /home/zhangxiang/data_analysis/Projects/2024_08_29_Cas12_delta_Improve/write_paper/srcPaper/revise_paper/data/NGS/result/raw_data_rename/OsPDS_56/merge/crisprwgsout/CRISPRessoWGS_on_YG260036A053a_WT/ANALYZED_REGIONS/REGION_0.bam
+Running CRISPResso on each region...
+
+The region [OsPDS_56] has enough reads (8849) mapped to it!
+Analysis Complete!

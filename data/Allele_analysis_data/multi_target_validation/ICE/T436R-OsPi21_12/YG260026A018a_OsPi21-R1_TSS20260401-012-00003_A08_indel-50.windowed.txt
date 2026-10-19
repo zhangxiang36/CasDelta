@@ -1,0 +1,18 @@
+
+control_aln_window                  ---GGGGAAATTAAGAGCGAGAT---------------------------
+edited                              CACCATGCCACTAAGCGCGAGATGATCGTGATCGACGCCGACCGCCGGCC
+
+control_aln_window                  --------------------------------------------------
+edited                              GGCCATCACATGATGGAGCAGGCGTTGGCGTTGTCCTCGGTGTAGCACCA
+
+control_aln_window                  --------------------------------------------------
+edited                              CGGCGGCGGCGGGCAGACGGGCGGCGGCGGCCACACCTGCGGCGGCCACG
+
+control_aln_window                  --------------------------------------------------
+edited                              GCCTGATGCCGCAGCCGCAGTTCCCGTGGCCCCCCGAGCACCCGCACGGC
+
+control_aln_window                  ----------------------------------------
+edited                              GGCGGCGGCGGCGGCGCCGGCTTGCAGACGCACACGAAGA
+
+
+

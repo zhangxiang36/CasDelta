@@ -1,0 +1,39 @@
+
+control_aln_window                  -AGCAGTCGCGACGTTGCACCGCAGCTT----------------------
+edited                              GTGCAGTTGCGCCGTTGCACCGCAGCTTGGAAGGCCACAGCCGTTGCAAC
+
+control_aln_window                  --------------------------------------------------
+edited                              CGCAGCTTGGACAGCCGCGGCCGCTGGATCACAGCCGTTGGATCCACAGC
+
+control_aln_window                  --------------------------------------------------
+edited                              TTGGACAGGCACAGCCCTTGTGGCTACAGCTTGCAAGGTTGTGAGTGCAG
+
+control_aln_window                  --------------------------------------------------
+edited                              CAATTGATATTATAGCCATGGCACTGGTCCTTGAAGCATGAAGGGATCTT
+
+control_aln_window                  --------------------------------------------------
+edited                              GAAGCAGCTGTACAGGGATTTGAAGCATGAAAAGATGTTGAAGCAGGTGC
+
+control_aln_window                  --------------------------------------------------
+edited                              AGCTCGGTTTGCAGCACGATGTATCGCAGCATGAGCTGCAGCTTGGACAG
+
+control_aln_window                  --------------------------------------------------
+edited                              GAGCACGAGCAGTTCGGTTTGCAGCAAGAAGGGGTCTTGCAGCAACTGCA
+
+control_aln_window                  --------------------------------------------------
+edited                              GTTAGGTTTACAGCATGAGCAGCAGTCTGGACTACAGCATGACCCAGCGC
+
+control_aln_window                  --------------------------------------------------
+edited                              AGCACGCACTGCAGTTTGGCTTACAGCATGGCTCGTCGCAGCATGAGCTG
+
+control_aln_window                  --------------------------------------------------
+edited                              CAAGAACAATTGAGGCACCTTGGTCTTTTGCACTTGGGTGAGCACTTGCA
+
+control_aln_window                  --------------------------------------------------
+edited                              ACAGTAGCAAAGACATGAAATGCAGATACACAATTTTGATCTGCAGGGAA
+
+control_aln_window                  -------------------------------
+edited                              AATATTTTCACCATGTAAAAGCTCAGTTTGC
+
+
+

@@ -1,0 +1,2 @@
+Name	Unmodified%	Modified%	Reads_total	Reads_aligned	Unmodified	Modified	Discarded	Insertions	Deletions	Substitutions	Only Insertions	Only Deletions	Only Substitutions	Insertions and Deletions	Insertions and Substitutions	Deletions and Substitutions	Insertions Deletions and Substitutions
+OsDEP1_30	40.68449683	59.31550317	4412	4415	1795	2617	0	0	2608	9	0	2608	9	0	0	0	0

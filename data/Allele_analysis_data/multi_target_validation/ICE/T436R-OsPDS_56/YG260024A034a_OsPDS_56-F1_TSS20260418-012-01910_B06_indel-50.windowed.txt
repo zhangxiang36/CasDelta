@@ -1,0 +1,42 @@
+
+control_aln_window                  ------------------AACTTGGAAGTAG-TATATTTTATTTCAGATT
+edited                              CAGTATCGTATTATTATTAACTTGGAAGTAGATATATTTTATTTCAGATT
+
+control_aln_window                  CATTTAGGCAACATGTCACTTGGCTCTAGAGTCTAGATTTTATGGACCAT
+edited                              CATTTAGGCAACATGTCACTTGGCTCTAGAGTCTAGATTTTATGGACCAT
+
+control_aln_window                  AATAGCTCAGGAAATTAAAGACATGGATGCCTACTGAACGGTTTTCTTTC
+edited                              AATAGCTCAGGAAATTAAAGACATGGATGCCTACTGAACGGTTTTCTTTC
+
+control_aln_window                  CTTTTGTTTTGAACTCTTTACAGGAATACTATGATCCAAA----------
+edited                              CTTTTGTTTTGAACTCTTTACAGGAATACTATGATCCAAACCGTTCAATG
+
+control_aln_window                  --------------------------------------------------
+edited                              CTGGAGTTGGTCTTTGCTCCTGCAGAGGAATGGGTTGGACGGAGTAGCAA
+
+control_aln_window                  --------------------------------------------------
+edited                              CTATGCCAGAGATAGCCAAATTATTTCCTGATGAAATTGCTGCTGAGCAG
+
+control_aln_window                  --------------------------------------------------
+edited                              AGAAAAGTGAAGATTCTGAAGTATCATGGAGTGAAAACACCCATGTGAGG
+
+control_aln_window                  --------------------------------------------------
+edited                              ACATTTTGCAAGAGCGCCCCCTATCTGATATATCATACTAACGGCTAATA
+
+control_aln_window                  --------------------------------------------------
+edited                              CATGGATGCACACTTCTCTCGCGTTCCTTTCTTTTCTGTCTCCCTGTTAT
+
+control_aln_window                  --------------------------------------------------
+edited                              TTATCTGTTTACGAGACTATCCCGGACTGTGAACCTTGCCGACCTCTGCA
+
+control_aln_window                  --------------------------------------------------
+edited                              AAGATCACCGATTGGAGGAGACTATCTATTTGAGGACTACACCAAGCAGA
+
+control_aln_window                  --------------------------------------------------
+edited                              AATATATGCCTTCGATGAAGATTGCAGTTCTATCTGGGAAGCTTTGTGCT
+
+control_aln_window                  ------------------
+edited                              CAGTCTGTATTGGAGTAA
+
+
+
