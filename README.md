@@ -98,8 +98,8 @@ Raw Sanger trace files, ICE outputs and amplicon-sequencing results supporting t
 
 If you use this toolkit, please cite the Casδ manuscript (under review) and the underlying methods:
 
-- He et al., *Efficient Evolution of Human Antibodies from General Protein Language Models* (2024) — mutation recommendation module.
-- ICE: Synthego, *Inference of CRISPR Edits from Sanger Trace Data* (preprint) — Sanger indel calling. The bundled `ice/` package is the open-source release from [synthego-open/ice](https://github.com/synthego-open/ice); see `ice/README.md` for citation details.
+- Hie, B. L., V. R. Shanker, D. Xu, et al. 2024 "Efficient evolution of human antibodies from general protein language models." *Nature Biotechnology* 42: 275-283. — mutation recommendation module.
+- Conant, D., T. Hsiau, N. Rossi, et al. 2022 "Inference of CRISPR Edits from Sanger Trace Data." *CRISPR Journal* 5: 123-130. The bundled `ice/` package is the open-source release from [synthego-open/ice](https://github.com/synthego-open/ice); see `ice/README.md` for citation details.
 
 ## License
 
